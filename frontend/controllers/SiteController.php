@@ -74,6 +74,9 @@ class SiteController extends Controller
      */
     public function actionIndex()
     {
+        Yii::$app->controller->id;
+        
+    
         return $this->render('index');
     }
 

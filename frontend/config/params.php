@@ -1,4 +1,6 @@
 <?php
 return [
-    'adminEmail' => 'admin@example.com',
+    'adminEmail' => 'sid@uho.ac.id',
+    'adminHp' => '+6222062001',
+    'address' => 'Kampus Bumi Tridharma, KDI',
 ];
